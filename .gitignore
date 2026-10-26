@@ -1,0 +1,10 @@
+# Ferramentas locais (skills de design, inspetor, editor)
+.claude/
+.taste-skill/
+.vscode/
+
+# Originais e capturas que não entram no site
+Fotos/
+_nao-usadas/
+
+.DS_Store
